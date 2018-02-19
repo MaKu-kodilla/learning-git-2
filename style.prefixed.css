@@ -19,6 +19,7 @@ header h2 {
     opacity: 0.8;
     padding: 9px;
     margin-bottom: 0;
+    display: -ms-flexbox;
     display: flex;
 }
 section {
